@@ -23,7 +23,7 @@ Technologies Used
 Installation
 Step 1: Clone the Repository
 
-git clone https://github.com/your-repo-name/groq-chat-app.git
+git clone repo_URL
 cd groq-chat-app
 
 Step 2: Set Up Environment
